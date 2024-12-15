@@ -82,7 +82,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README provides all the essential information about the **Road Eye** project, including installation, usage, and contributions. It will help users and contributors understand how to set up and use the pothole detection system effectively.
+
 
 
 
